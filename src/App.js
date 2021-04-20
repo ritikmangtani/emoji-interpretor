@@ -59,7 +59,7 @@ export default function App() {
       {""}
       {""}
       {""}
-      <p>Checkout my other Projects</p>
+      <p style={{ fontSize: "medium" }}>Checkout my other Projects : </p>
       <a
         style={{
           textDecoration: "none",
